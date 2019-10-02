@@ -11,3 +11,7 @@ Github : [NoirFLamme](https://github.com/NoirFLamme)
 ## Aditya Samantaroy
 Github : [AdityaSamantaroy](https://github.com/AdityaSamantaroy)
 =======
+
+## Tim Solokha
+Github : [TimSolokha](https://github.com/TimSolokha)
+=======
