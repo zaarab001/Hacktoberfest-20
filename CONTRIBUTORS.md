@@ -13,3 +13,6 @@ Github : [AdityaSamantaroy](https://github.com/AdityaSamantaroy)
 
 ## Tim Solokha
 Github : [TimSolokha](https://github.com/TimSolokha)
+
+## Masyoudi Adi Yanta
+Github : [masyoudi](https://github.com/masyoudi)
